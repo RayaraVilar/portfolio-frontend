@@ -1,0 +1,37 @@
+[
+  {
+    "id": "patos",
+    "label": "Patos, Paraíba",
+    "title": "Tudo começou em Patos.",
+    "caption": "Sou Rayara Vilar, do sertão da Paraíba. Foi pela comunicação que a internet entrou na minha vida.",
+    "duration": 5.5
+  },
+  {
+    "id": "codigo",
+    "label": "João Pessoa · UFPB",
+    "title": "Da comunicação ao código.",
+    "caption": "Essa curiosidade me levou à UFPB, em Mídias Digitais. Lá, descobri como tirar uma ideia do papel e colocá-la na tela.",
+    "duration": 6.5
+  },
+  {
+    "id": "portugal",
+    "label": "Do Brasil a Portugal",
+    "title": "E ela cruzou o oceano.",
+    "caption": "A curiosidade foi na mala comigo para seis meses de intercâmbio no Instituto Politécnico de Bragança, em Portugal.",
+    "duration": 7
+  },
+  {
+    "id": "interfaces",
+    "label": "Sistemas, back-end e dados",
+    "title": "Então, olhei por trás da tela.",
+    "caption": "De volta, Sistemas para Internet, back-end e dados me mostraram o que sustenta cada interface.",
+    "duration": 6
+  },
+  {
+    "id": "hoje",
+    "label": "Rayara Vilar · Frontend Developer",
+    "title": "Interfaces com história.",
+    "caption": "Hoje, uno comunicação, design e código para criar interfaces que fazem sentido para quem usa.",
+    "duration": 5
+  }
+]
